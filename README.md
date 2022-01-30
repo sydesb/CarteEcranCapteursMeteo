@@ -1,5 +1,5 @@
 
-> Ouvrir cette page à [https://sydesb.github.io/carteecrancapteursmeteo/](https://sydesb.github.io/carteecrancapteursmeteo/)
+> Ouvrir cette page à [https://sydesb.github.io/CarteEcranCapteursMeteo/](https://sydesb.github.io/CarteEcranCapteursMeteo/)
 
 ## Utiliser comme extension
 
